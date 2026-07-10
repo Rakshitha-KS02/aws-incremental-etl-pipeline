@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,product_category,region,quantity,unit_price,order_status,last_updated_at,batch_id
+1007,C007,2026-07-03,Electronics,West,1,900,Shipped,2026-07-03 09:00:00,BATCH_003
+1008,C008,2026-07-03,Clothing,Midwest,2,60,Pending,2026-07-03 10:00:00,BATCH_003
+1009,C009,2026-07-03,Furniture,South,1,400,Shipped,2026-07-03 11:00:00,BATCH_003
